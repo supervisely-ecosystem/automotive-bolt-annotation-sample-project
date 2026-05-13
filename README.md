@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#overview">Overview</a> •
-  <a href="#use-cases">Use Cases</a> •
+  <a href="#how-to-use-this-project">How to Use This Project</a> •
   <a href="#download">Download</a>
 </p>
 
