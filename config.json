@@ -1,0 +1,13 @@
+{
+    "name": "Automotive Bolt Annotation Sample Project",
+    "description": "Practice project with 17 unannotated images of car wheels with bolts. Perfect for trying live training and center out mode.",
+    "type": "project",
+    "categories": [
+        "import",
+        "images",
+        "project",
+        "automotive"
+    ],
+    "icon": "https://github.com/supervisely-ecosystem/automotive-bolt-annotation-sample-project/releases/download/v1.0.0/icon10.png",
+    "icon_cover": true
+}
